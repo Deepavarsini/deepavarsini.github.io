@@ -1,0 +1,5 @@
+baseURL = "https://deepavarsini.github.io/"
+languageCode = "en-us"
+title = "Deepa's Reflection Journal"
+theme = "ananke"
+
