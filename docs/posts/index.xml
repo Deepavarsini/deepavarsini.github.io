@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Deepa&#39;s Reflection Blog</title>
+    <link>https://deepavarsini.github.io/posts/</link>
+    <description>Recent content in Posts on Deepa&#39;s Reflection Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2026 11:34:17 +0530</lastBuildDate>
+    <atom:link href="https://deepavarsini.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kind of Challenging Yet Valuable Learning</title>
+      <link>https://deepavarsini.github.io/posts/my-second-post/</link>
+      <pubDate>Sat, 14 Mar 2026 11:34:17 +0530</pubDate>
+      <guid>https://deepavarsini.github.io/posts/my-second-post/</guid>
+      <description>&lt;p&gt;In the nature of information problems, it sounds both familiar and challenging at the same time while learning. As I did Math and Computer science in my higher secondary education, the concepts like binary numbers and conversations are somehow familiar to me.It helped me to feel a kind of ease in the beginning. But when these simple concepts get distributed within the concepts like image transformation and optimization problems, it becomes more complicated and needs deeper understanding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Seeing Information in a New Way</title>
+      <link>https://deepavarsini.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 18 Feb 2026 00:57:24 +0530</pubDate>
+      <guid>https://deepavarsini.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Learning some different things in an unusual way is kind of interesting and spectacular for me, which gets my attention even though I&amp;rsquo;m not having it. I get to know about the basic difference between the data, information, knowledge and wisdom through the DIKW model in a better way. Before I went through these terms in this unit, I thought these words are almost similar. But now the difference between them and how it depends on context, meaning, and insights was quite new to me.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
