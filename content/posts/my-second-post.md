@@ -4,7 +4,7 @@ draft = false
 title = 'Kind of Challenging Yet Valuable Learning'
 +++
 
-In the nature of information problems, it sounds both familiar and challenging at the same time while learning. As I did Math and Computer science in my higher secondary education, the concepts like binary numbers and conversations are somehow familiar to me.It helped me to feel a kind of ease in the beginning. But when these simple concepts get distributed within the concepts like image transformation and optimization problems, it becomes more complicated and needs deeper understanding.
+In the nature of information problems, it sounds both familiar and challenging at the same time while learning. As I did Math and Computer science in my higher secondary education, the concepts like binary numbers and conversations are somehow familiar to me. It helped me to feel a kind of ease in the beginning. But when these simple concepts get distributed within the concepts like image transformation and optimization problems, it becomes more complicated and needs deeper understanding.
 
 The optimization problems are really found interesting, because here the goal is, among many options we need to find the optimal solution. It is similar and relevant to real life situations where we found fastest routes or choosing the best things within the budget. I understand how to simplify complex details by only focusing on the important details through the concepts like modeling and abstraction. For problem solving, a way of thinking is the useful and needed thing. Patience and careful thinking are the necessary things to do the tasks like image transformation and solving optimization problems.
 
