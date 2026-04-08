@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Deepa&#39;s Reflection Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 11:34:17 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 00:11:33 +0530</lastBuildDate>
     <atom:link href="https://deepavarsini.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learnings from system failures and human errors</title>
+      <link>https://deepavarsini.github.io/posts/my-third-post/</link>
+      <pubDate>Sat, 04 Apr 2026 00:11:33 +0530</pubDate>
+      <guid>https://deepavarsini.github.io/posts/my-third-post/</guid>
+      <description>&lt;p&gt;Learning about failure sounds very controversial and has different perspectives among everyone. In contrast to studying successful technologies which are familiar, in this unit we deeply think about the failure, how it happened and why it happened which is not usual.&lt;/p&gt;&#xA;&lt;p&gt;From this unit, I learnt that failures are not happening because of the single mistake. Some of the small errors in designing, software or decisions made by humans are also the reasons behind the failures. In Information systems, careful planning and testing are the most important things. Sometimes mistakes can also be made by widely known organizations as well.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kind of Challenging Yet Valuable Learning</title>
       <link>https://deepavarsini.github.io/posts/my-second-post/</link>
